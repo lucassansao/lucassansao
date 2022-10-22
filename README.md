@@ -4,7 +4,7 @@ I decided to change my occupation of over 11 years of working in Maintenance and
 I've been working and dedicated long enough time to learn about Web Development and become a great professional. I'm ready to acquire new knowledge and skills and I’m certain that joining your team is a benefit for both sides. I’m ready for long-time cooperation.
 
 ### Contacts
-<a href = "mailto:lucas.sansao@outlook.com?subject=Hello! Mr. Lucas Sansão"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucas.sansao@outlook.com?subject=Hello! Mr. Lucas Sansão"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:luc.sansao@gmail.com?subject=Hello! Mr. Lucas Sansão"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/lucassansao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/16047813967" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
