@@ -1,5 +1,4 @@
-### Hello, I'm Lucas Sansão! <img align="center" alt="maple-leaf" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Maple_Leaf.svg">
-
+### Hello, I'm Lucas Sansão! <img align="center" alt="maple-leaf" height="30" width="40"
 I decided to change my occupation of over 11 years of working in Maintenance and Electrical Engineering to start a new career in Front-End Web Development.
 
 I've been working and dedicated long enough time to learn about Web Development and become a great professional. I'm ready to acquire new knowledge and skills and I’m certain that joining your team is a benefit for both sides. I’m ready for long-time cooperation.
