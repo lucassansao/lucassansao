@@ -31,7 +31,7 @@ I am a proactive, dedicated person who is always looking to learn more. I am ope
 <!--   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;&nbsp; -->
 <!--   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;&nbsp; -->
 <!--   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;&nbsp; -->
- <!--   <img height="45"  src="https://wr-angular-image/dist/wr-angular-image.min.js"/> &nbsp;&nbsp; -->
+ <!--   <img height="45"  src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/> &nbsp;&nbsp; -->
 </p>
 
 ### Hobbies and Teams
