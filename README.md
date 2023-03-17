@@ -32,7 +32,7 @@ I am a proactive, dedicated person who is always looking to learn more. I am ope
 <!--   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;&nbsp; -->
 <!--   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> &nbsp;&nbsp; -->
 <img height="50"  src="angular_logo.svg"/>
-<img height="50"  src="vuejs_logo.svg"/>
+<img height="45"  src="vuejs_logo.svg"/>
 </p>
 
 ### Hobbies and Teams
